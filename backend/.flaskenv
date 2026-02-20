@@ -5,5 +5,5 @@ FLASK_ENV=development
 FLASK_DEBUG=1
 MAIL_PORT=587
 MAIL_USERNAME=prateek.pecfest19@gmail.com
-MAIL_PASSWORD=rkajhpperewonyxo
+MAIL_PASSWORD=
 MAIL_SERVER=smtp.gmail.com
