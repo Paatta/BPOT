@@ -1,0 +1,9 @@
+SQLALCHEMY_DATABASE_URI = postgresql://poc_user:admin123@localhost:5432/poc_db
+# SQLALCHEMY_TRACK_MODIFICATIONS = False
+JWT_SECRET_KEY=123456789012345678901234567890
+FLASK_ENV=development
+FLASK_DEBUG=1
+MAIL_PORT=587
+MAIL_USERNAME=prateek.pecfest19@gmail.com
+MAIL_PASSWORD=rkajhpperewonyxo
+MAIL_SERVER=smtp.gmail.com
